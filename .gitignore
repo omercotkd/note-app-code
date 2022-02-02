@@ -1,0 +1,5 @@
+/.venv
+/api/.venv
+/api/.flaskenv
+/api/__pycache__
+/__pycache__
